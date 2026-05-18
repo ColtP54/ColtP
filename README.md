@@ -30,4 +30,4 @@ Hello! My name is Colt Patterson. I am currently building my skills in programmi
 
 ## 📫 Contact
 - GitHub: https://github.com/ColtPatterson
-- Email: your-email-here
+- Email: macycolt@gmail.com
